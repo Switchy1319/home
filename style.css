@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&family=Barlow:wght@500;700;900&family=Hanken+Grotesk:wght@500;700;800&family=Josefin+Sans:wght@300;400&family=Kumbh+Sans:wght@400;700&family=Open+Sans:wght@400;700&family=Plus+Jakarta+Sans:wght@500;700;800&family=Poppins:wght@300;400;600&family=Red+Hat+Display:wght@500;900&family=Roboto:wght@700&display=swap');
+
+
 *{
     margin: 0;
     padding: 0;
@@ -10,6 +13,9 @@
 header{
     background-image: url(src/Bitmap\ \(1\).svg);
 
+}
+body{
+    font-family: Josefin Sans;
 }
 .logo{
     margin-right: 159px;
