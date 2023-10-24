@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: grid;
+    justify-content: center;
+}
+header{
+    background-image: url(src/Bitmap\ \(1\).svg);
+
+}
+.logo{
+    margin-right: 159px;
+    margin-left: 22px;
+}
+.burger{
+    margin-right: 22px;
+    margin-top: 44px;
+}
+.border{
+    width: 327px;
+    height: 196px;
+    border: 2px solid white;
+    margin-top: 163px;
+    margin-left: 22px;
+    display: grid;
+    justify-content: center;
+    margin-bottom: 227px;
+} 
+.immersive{
+    width: 279px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 38px;
+    text-transform: uppercase;
+    margin-top: 26px;
+}
+.pirveli{
+    display: grid;
+    justify-content: center;
+}
+.kaci{
+    margin-top: 96px;
+}
+.leader{
+    color: black;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 32px;
+    text-transform: uppercase;
+    width: 279px;
+    margin-top: 48px;
+    margin-left: 22px;
+}
+.founded{
+    width: 279px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-left: 22px;
+    margin-top: 16px;
+}
+.seeall{
+    display: none;
+}
+.div{
+    width: 327px;
+    height: 120px;
+    margin-bottom: 24px;
+}
+.meore{
+    display: grid;
+    justify-content: center;
+}
+.our{
+    margin-top: 96px;
+    color: black;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 32px;
+    text-transform: uppercase;
+    margin-bottom: 48px;
+}
+.div1{
+    background-image: url(src/Object.svg);
+}
+.div2{
+    background-image: url(src/Object\ \(1\).svg);
+}
+.div3{
+    background-image: url(src/Object\ \(2\).svg);
+}
+.div4{
+    background-image: url(src/Object\ \(3\).svg);
+}
+.div5{
+    background-image: url(src/Object\ \(4\).svg);
+}
+.div6{
+    background-image: url(src/Object\ \(5\).svg);
+}
+.div7{
+    background-image: url(src/Object\ \(6\).svg);
+}
+.div8{
+    background-image: url(src/Object\ \(7\).svg);
+}
+.xoara{
+    color: #fff;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 24px;
+    text-transform: uppercase;
+    margin-left: 20px;
+    margin-top: 52px;
+
+}
+.div:hover{
+    transform: scale(1.05);
+     transition: all 1s;
+ }
+.kaci:hover{
+    transform: scale(1.05);
+     transition: all 1s;
+ }
+.see{
+    border: 1px solid black;
+    width: 157px;
+    height: 40px;
+    display: grid;
+    justify-content: center;
+    margin-left: 85px;
+    margin-top: 10px;
+}
+.all{
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    margin-top: 13px;
+}
+.seeall{
+    border: 1px solid black;
+    width: 157px;
+    height: 40px;
+    display: grid;
+    justify-content: center;
+    margin-left: 85px;
+    margin-top: 10px;
+}
+footer{
+    width: 375px;
+    height: 470px;
+    background-color: black;
+    display: grid;
+    justify-content: center;
+    margin-top: 96px;
+}
+.footer{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+.bolo{
+    color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+    margin-top: 16px;
+}
+.raxdeba{
+    margin-left: 55px;
+    margin-top: 48px;
+}
+.seeall{
+    display: none;
+}
+.tbolo{
+    margin-top: 56px;
+    margin-left: 54px;
+    margin-bottom: 32px;
+}
