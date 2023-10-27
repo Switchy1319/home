@@ -196,3 +196,29 @@ footer{
     margin-left: 54px;
     margin-bottom: 32px;
 }
+.none{
+    display: none;
+}
+.burgeristvis{
+    position: absolute;
+    width: 375px;
+    height: 667px;
+    background-color: black;
+    margin-top: -80px;
+    z-index: 1;
+    display: none;
+}
+.logoo{
+    margin-left: 16px;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+.he{
+    color: white;
+    margin-left: 16px;
+    margin-bottom: 16px;
+}
+.he1{
+    margin-top: 150px;
+}
+

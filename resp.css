@@ -1,1 +1,154 @@
- 
+@media(width > 1440px){
+    header{
+        width: 100%;
+        background-image: url(src/bitt.svg);
+        background-size: 100%    }
+    .none{
+        display: flex;
+        position: absolute;
+    }
+    .burger{
+        display: none;
+    }
+    .headerr{
+        color: #fff;
+        font-size: 15px;
+        font-weight: 400;
+        margin-left: 25px;
+        line-height: 25px;
+        margin-top: -30px;
+        
+    }
+    .headerr1{
+        margin-left: 900px;
+    }
+    .kaci{
+        display: none;
+    }
+    .pirveli{
+        background-image: url(src/kacii.svg);
+        background-repeat: no-repeat;
+        height: 500px;
+        margin-left: 200px;
+        margin-top: 160px;
+    }
+    .leader{
+        width: 445px;
+        font-size: 48px;
+        line-height: 48px;
+    }
+    .founded{
+        width: 445px;
+        font-size: 15px;
+        text-align: left;
+    }
+    .tetri{
+        background-color: #fff;
+        width: 317px;
+        height: 541px;
+        margin-top: 183px;
+        margin-left: 150px;
+    }
+    .meore{
+        width: 1440px;
+        display: grid;
+        grid-template-columns: auto auto auto auto ;
+    }
+    .seeall{
+        display: grid;
+        margin-left: 670px;
+    }
+    .fleqs{
+        display: flex;
+        margin-top: 186px;
+        grid-column: 1 / 5;
+    }
+    .div{
+        width: 256px;
+        height: 450px;
+        margin-right: 30px;
+    }
+    .our{
+        margin-top: 15px;
+    }
+    .logo{
+        margin-top: 50px;
+        margin-left: 160px;
+    }
+    .border{
+        width: 650px;
+        height: 278px;
+        margin-left: 160px;
+        margin-bottom: 126px;
+    }
+    .immersive{
+        width: 570px;
+        font-size: 72px;
+        line-height: 70px;
+    }
+    footer{
+        width: auto;
+        display: flex;
+    }
+    .see{
+        display: none;
+    }
+    .tbolo{
+        margin-bottom: 0;
+    }
+    .flex{
+        display: flex;
+        margin-left: -300px;
+    }
+    footer{
+        height: 160px;
+    }
+    .xoara{
+        margin-top: 350px;
+    }
+    .div1{
+        background-image: url(src/Bitmap\ \(11\).svg);
+    }
+    .div2{
+        background-image: url(src/Bitmap\ \(22\).svg);
+    }
+    .div3{
+        background-image: url(src/Bitmap\ \(33\).svg);
+    }
+    .div4{
+        background-image: url(src/Bitmap\ \(44\).svg);
+    }
+    .div5{
+        background-image: url(src/Bitmap\ \(55\).svg);
+    }
+    .div6{
+        background-image: url(src/Bitmap\ \(66\).svg);
+    }
+    .div7{
+        background-image: url(src/Bitmap\ \(77\).svg);
+    }
+    .div8{
+        background-image: url(src/Bitmap\ \(88\).svg);
+    }
+    .l{
+        margin-top: 0;
+        margin-left: 400px;
+        margin-top: -100px;
+    }
+    .raxdeba{
+        margin-top: 0;
+        
+    }
+    .footer{
+        margin-right: 16px;
+    }
+    .tbolo{
+        margin-left: -300px;
+    }
+    header{
+        width: 100%;
+    }
+    .main{
+        width: 100%;
+    }
+}
