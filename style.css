@@ -35,6 +35,7 @@ body{
     justify-content: center;
     margin-bottom: 227px;
 } 
+
 .immersive{
     width: 279px;
     color: #fff;
@@ -220,5 +221,8 @@ footer{
 }
 .he1{
     margin-top: 150px;
+}
+.active{
+    display: block;
 }
 
